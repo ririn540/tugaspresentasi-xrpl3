@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+}
+
+body{
+    background-color: rgb(255, 254, 251);
+}
+
+p{
+    text-align: center;
+} 
+
+.kelahiran{
+    color: rgb(0, 0, 0);
+}
+
+.pasangan{
+    color: rgb(0, 0, 0);
+}
+
+.tinggi{
+    color: rgb(0, 0, 0);
+}
+
+.pendidikan{
+    color: rgb(5, 5, 5);
+}
